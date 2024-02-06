@@ -2,6 +2,9 @@
 
 
 - 👨🏻‍💻 I'm a **Business Analyst Manager** at <a href="https://www.maxbot.com.br/"> Maxbot </a>
+
+- 🎓 Industrial **Engineering Degree** from Universidade Federal de Viçosa ranked as one of the top ten universities in Brazil.
+
 - 🏃🏼 **Running** and other outdoor activities enthusiast
 
 - 🖥️ Focus in improving business performance utilizing data and automating tasks with:
