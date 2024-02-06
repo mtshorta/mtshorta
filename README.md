@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi, my name is Mateus :)
 
-<!--
-**mtshorta/mtshorta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👨🏻‍💻 I'm a **Business Analyst Manager** at <a href="https://www.maxbot.com.br/"> Maxbot </a>
+- 🏃🏼 **Running** and other outdoor activities enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ Focus in improving business performance utilizing data and automating tasks with:
+
+<div display="inline">
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/128/732/732220.png" width="50" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" />&nbsp;&nbsp;
+</div>
+
+##
+
+### You can also reach me in:
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mateus-horta/"> <img src="https://cdn-icons-png.flaticon.com/128/6422/6422202.png" width="50"> </a>
+&nbsp;&nbsp;
+<a href="https://mateushorta.com/"> <img src="https://cdn-icons-png.flaticon.com/128/6423/6423312.png" width="50"> </a>
+&nbsp;&nbsp;
+<a href="https://mateushorta.com/"> <img src="https://cdn-icons-png.flaticon.com/128/6422/6422200.png" width="50"> </a>
+
+          
+### You might be interested in:
+- [Automating reports with Python](https://mateushorta.com/automatizando-extracao-de-relatorios-com-python/)
