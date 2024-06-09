@@ -5,6 +5,8 @@
 
 - 🎓 Industrial **Engineering Degree** from Universidade Federal de Viçosa ranked as one of the top ten universities in Brazil.
 
+- 🎓 **Post Grad in Artificial Intelligence** and Machine Learning.
+
 - 🏃🏼 **Running** and other outdoor activities enthusiast
 
 - 🖥️ Focus in improving business performance utilizing data and automating tasks with:
@@ -25,6 +27,4 @@
 &nbsp;&nbsp;
 <a href="https://mateushorta.com/"> <img src="https://cdn-icons-png.flaticon.com/128/6422/6422200.png" width="50"> </a>
 
-          
-### You might be interested in:
-- [Automating reports with Python](https://mateushorta.com/automatizando-extracao-de-relatorios-com-python/)
+
