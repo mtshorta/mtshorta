@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻 I'm a **Business Analyst Manager** at <a href="https://www.maxbot.com.br/"> Maxbot </a>
 
-- 🎓 Industrial **Engineering Degree** from Universidade Federal de Viçosa ranked as one of the top ten universities in Brazil.
+- 🎓 Industrial **Engineering BSc Degree** from Universidade Federal de Viçosa ranked as one of the top ten universities in Brazil.
 
 - 🎓 **Post Grad in Artificial Intelligence** and Machine Learning.
 
